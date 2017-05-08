@@ -1,0 +1,5 @@
+23/9/2016 idea conceived.
+24/9/2016 work commences. added Home.html and Style.css. in github. parse error destroys container.
+25/9/2016 navigation. about page. formatting. About.html and AboutStyle.css. updated on github.
+13/10/2016 background added. ITS ONLINE AT BOTTLEFLIPPINGWORLD.GA . hosted at 000webhost.com and freenom.com. backgound on mobile is glitchy. changed font color to black
+15/10/2016 background fixed. footer colour removed.list items are now BOTTLES!

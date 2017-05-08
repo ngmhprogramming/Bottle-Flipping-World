@@ -1,0 +1,43 @@
+body{
+    font-family: Arial;
+    background-size: cover;
+    background-image: url("bottlebg.jpg");
+    background-repeat: no-repeat;
+    list-style-image: url("bottlelist.png");
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+#container {
+    color: black;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#header {
+    color: #00cc00;
+    text-align: center;
+}
+#content {
+    padding: 10px 10px 10px 10px;
+}
+#main {
+    width: 600px;
+    float: right;
+}
+#nav {
+    width: 160px;
+    float: left;
+}
+#nav .selected {
+    font-weight: bold;
+}
+#nav ul {
+    list-style-type: none;
+}
+#footer {
+    clear: both;
+    text-align: right;
+    padding: 10px;
+}

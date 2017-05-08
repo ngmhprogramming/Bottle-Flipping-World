@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="582dda95-97d0-441e-b88f-26e44b4c019c" kpf_version="5" name="Uploaded.komodoproject">
+<file id="3cae4496-6c22-49a7-b157-c5c2e902d690" idref="582dda95-97d0-441e-b88f-26e44b4c019c" name="bottle.jpg" url="bottle.jpg">
+</file>
+<file id="461fa764-fb04-4cf7-81c3-4e1008999a25" idref="582dda95-97d0-441e-b88f-26e44b4c019c" name="style.css" url="style.css">
+</file>
+<file id="49a96a16-4f40-4a26-a55b-a4825f3b0867" idref="582dda95-97d0-441e-b88f-26e44b4c019c" name="youtube.html" url="youtube.html">
+</file>
+<file id="4cc396f7-020d-482f-a384-8a4c4ce26de5" idref="582dda95-97d0-441e-b88f-26e44b4c019c" name="about.css" url="about.css">
+</file>
+<file id="6598cee9-4ae9-4f07-9846-abe97c49d5f6" idref="582dda95-97d0-441e-b88f-26e44b4c019c" name="youtube.css" url="youtube.css">
+</file>
+<file id="985fd859-d0c2-4cdf-91db-0eef3aead5f5" idref="582dda95-97d0-441e-b88f-26e44b4c019c" name="index.html" url="index.html">
+</file>
+<file id="ea4c56fb-d893-4811-a34b-8f89036a137a" idref="582dda95-97d0-441e-b88f-26e44b4c019c" name="about.html" url="about.html">
+</file>
+<preference-set idref="582dda95-97d0-441e-b88f-26e44b4c019c" id="project" preftype="project">
+  <long id="prefs_version">1</long>
+</preference-set>
+</project>
